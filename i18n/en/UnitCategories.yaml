@@ -1,0 +1,6 @@
+metricSi:
+  name: Metric (SI)
+  desc: Metric system units from the International System of Units (SI).
+metricNon:
+  name: Metric (Non-SI)
+  desc: Metric system units not from the International System of Units (SI).

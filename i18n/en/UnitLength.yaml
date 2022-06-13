@@ -1,0 +1,114 @@
+# --------------------------------------------
+# Metric
+# --------------------------------------------
+
+yottameter:
+  name: Yottameter
+  symbol: Ym
+  desc: SI metric unit. Equal to 1ᴇ24 meter.
+zettameter:
+  name: Zettameter
+  symbol: Zm
+  desc: SI metric unit. Equal to 1ᴇ21 meter.
+exameter:
+  name: Exameter
+  symbol: Em
+  desc: SI metric unit. Equal to 1ᴇ18 meter.
+petameter:
+  name: Petameter
+  symbol: Pm
+  desc: SI metric unit. Equal to 1ᴇ15 meter.
+terameter:
+  name: Terameter
+  symbol: Tm
+  desc: SI metric unit. Equal to 1ᴇ12 meter.
+gigameter:
+  name: Gigameter
+  symbol: Gm
+  desc: SI metric unit. Equal to 1ᴇ9 meter.
+megameter:
+  name: Megameter
+  symbol: Mm
+  desc: SI metric unit. Equal to 1ᴇ6 meter.
+kilometer:
+  name: Kilometer
+  symbol: km
+  desc: SI metric unit. Also called "klick". Equal to 1000 meter.
+hectometer:
+  name: Hectometer
+  symbol: hm
+  desc: SI metric unit. Equal to 100 meter.
+decameter:
+  name: Decameter
+  symbol: dam
+  desc: SI metric unit. Equal to 10 meter.
+meter:
+  name: Meter
+  symbol: m
+  desc: Base SI metric unit.
+decimeter:
+  name: Decimeter
+  symbol: dm
+  desc: SI metric unit. Equal to 0.1 meter.
+centimeter:
+  name: Centimeter
+  symbol: cm
+  desc: SI metric unit. Equal to 0.01 meter.
+millimeter:
+  name: Millimeter
+  symbol: mm
+  desc: SI metric unit. Equal to 0.001 meter.
+micrometer:
+  name: Micrometer
+  symbol: μm
+  desc: SI metric unit. Also called "micron". Equal to 1ᴇ-6 meter.
+nanometer:
+  name: Nanometer
+  symbol: nm
+  desc: SI metric unit. Equal to 1ᴇ-9 meter.
+picometer:
+  name: Picometer
+  symbol: pm
+  desc: SI metric unit. Equal to 1ᴇ-12 meter.
+femtometer:
+  name: Femtometer
+  symbol: fm
+  desc: SI metric unit. Also called "fermi". Equal to 1ᴇ-15 meter.
+attometer:
+  name: Attometer
+  symbol: am
+  desc: SI metric unit. Equal to 1ᴇ-18 meter.
+zeptometer:
+  name: Zeptometer
+  symbol: zm
+  desc: SI metric unit. Equal to 1ᴇ-21 meter.
+yoctometer:
+  name: Yoctometer
+  symbol: ym
+  desc: SI metric unit. Equal to 1ᴇ-24 meter.
+mileScandinavian:
+  name: Scandinavian mile
+  symbol: mil
+  desc: Non-SI metric unit. Equal to 10 kilometer.
+myriameter:
+  name: Myriameter
+  symbol: my
+  desc: Non-SI deprecated metric unit. Equal to 10 kilometer.
+angstrom:
+  name: Ångström
+  symbol: Å
+  desc: Non-SI metric unit. Equal to 0.1 nanometer.
+
+# --------------------------------------------
+# Constants
+# --------------------------------------------
+
+xunitCopper: 
+  name: Copper x unit
+  symbol: xu(CuKα₁)
+  desc: Copper X-ray wavelength unit. Equal to 1.00207697(28)ᴇ-13 meter. [2018 CODATA]
+xunitMolybdenum:
+  name: Molybdenum x unit
+  symbol: xu(MoKα₁)
+  desc: Molybdenum X-ray wavelength unit. Equal to 1.00209952(53)ᴇ-13 meter. [2018 CODATA]
+
