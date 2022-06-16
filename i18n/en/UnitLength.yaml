@@ -148,7 +148,7 @@ rod:
   - Perch
   symbol: rd
   desc: Imperial unit. Equal to 11⁄2 yard or 5.0292 meter.
-yard:
+yardImperial:
   name: 
   - Yard
   symbol: yd
@@ -240,7 +240,7 @@ rope:
   - Rope
   symbol: rope
   desc: Imperial unit. Equal to 20 Imperial foot or 6.096 meter.
-ell:
+ellImperial:
   name: 
   - Ell
   symbol: ell
@@ -592,7 +592,7 @@ fod:
   desc: Old Danish unit. Equal to 12 tomme or 0.313857 meter.
 tomme:
   name: 
-  - Tonne
+  - Tomme
   symbol: tomme
   desc: Old Danish unit. Equal to 12 linie or 2.615475 centimeter.
 linie:
@@ -600,3 +600,38 @@ linie:
   - Linie
   symbol: linie
   desc: Old Danish unit. Equal to 2.1795625 millimeter.
+uren:
+  name: 
+  - Uren
+  symbol: uren
+  desc: Old Dutch unit. Equal to 5 myl or 5.000244301 kilometer.
+myl:
+  name: 
+  - Myl
+  symbol: myl
+  desc: Old Dutch unit. Equal to 3533⁄13 roeden or 1.0000488602 kilometer.
+roeden:
+  name: 
+  - Roeden
+  symbol: roeden
+  desc: Old Dutch unit. Equal to 26⁄5 elle or 3.6797722 meter.
+elle:
+  name: 
+  - Elle
+  symbol: elle
+  desc: Old Dutch unit. Equal to 5⁄2 voeten or 0.7076485 meter.
+voeten:
+  name: 
+  - Voeten
+  symbol: voeten
+  desc: Old Dutch unit. Equal to 12 duime or 0.2830594 meter.
+duime:
+  name: 
+  - Duime
+  symbol: duime
+  desc: Old Dutch unit. Equal to 12 lyne or 2.3588283̅ centimeter.
+lyne:
+  name: 
+  - Lyne
+  symbol: lyne
+  desc: Old Dutch unit. Equal to 1.96569027̅ millimeter.

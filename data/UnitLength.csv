@@ -26,7 +26,7 @@ angstrom,1,10000000000,0,1,metricNon
 leagueImperial,603504,125,0,1,imperial
 mileImperial,201168,125,0,1,imperial
 rod,12573,2500,0,1,imperial
-yard,1143,1250,0,1,imperial
+yardImperial,1143,1250,0,1,imperial
 pace,381,500,0,1,imperial
 cubit,1143,2500,0,1,imperial
 footImperial,381,1250,0,1,imperial
@@ -44,7 +44,7 @@ wrap,9144,125,0,1,imperial
 bolt,4572,125,0,1,imperial
 shackle,3429,125,0,1,imperial
 rope,762,125,0,1,imperial
-ell,1143,1000,0,1,imperial
+ellImperial,1143,1000,0,1,imperial
 nail,1143,20000,0,1,imperial
 fingerImperial,889,40000,0,1,imperial
 barleycorn,127,15000,0,1,imperial
@@ -111,3 +111,10 @@ aln,627714,1000000,0,1,danish
 fod,313857,1000000,0,1,danish
 tomme,2615475,100000000,0,1,danish
 linie,21795625,10000000000,0,1,danish
+uren,5000244301,1000000,0,1,dutch
+myl,5000244301,5000000,0,1,dutch
+roeden,18398861,5000000,0,1,dutch
+elle,1415297,2000000,0,1,dutch
+voeten,1415297,5000000,0,1,dutch
+duime,1415297,60000000,0,1,dutch
+lyne,1415297,720000000,0,1,dutch
