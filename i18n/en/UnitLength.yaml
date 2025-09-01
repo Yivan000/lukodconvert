@@ -2,129 +2,149 @@
 # Metric
 # --------------------------------------------
 
+quettameter:
+  name: 
+  - quettameter
+  symbol: Qm
+  desc: SI metric unit. Equal to 1000 [ronnameter] or 1ᴇ30 [meter]. Adopted 2022.
+ronnameter:
+  name: 
+  - ronnameter
+  symbol: Rm
+  desc: SI metric unit. Equal to 1000 [yottameter] or 1ᴇ27 [meter]. Adopted 2022.
 yottameter:
   name: 
-  - Yottameter
+  - yottameter
   symbol: Ym
-  desc: SI metric unit. Equal to 1000 zettameter or 1ᴇ24 meter.
+  desc: SI metric unit. Equal to 1000 [zettameter] or 1ᴇ24 meter. Adopted 1991.
 zettameter:
   name: 
-  - Zettameter
+  - zettameter
   symbol: Zm
-  desc: SI metric unit. Equal to 1000 exameter or 1ᴇ21 meter.
+  desc: SI metric unit. Equal to 1000 [exameter] or 1ᴇ21 [meter]. Adopted 1991.
 exameter:
   name: 
-  - Exameter
+  - exameter
   symbol: Em
-  desc: SI metric unit. Equal to 1000 petameter or 1ᴇ18 meter.
+  desc: SI metric unit. Equal to 1000 [petameter] or 1ᴇ18 [meter]. Adopted 1975.
 petameter:
   name: 
-  - Petameter
+  - petameter
   symbol: Pm
-  desc: SI metric unit. Equal to 1000 terameter or 1ᴇ15 meter.
+  desc: SI metric unit. Equal to 1000 [terameter] or 1ᴇ15 [meter]. Adopted 1975.
 terameter:
   name: 
-  - Terameter
+  - terameter
   symbol: Tm
-  desc: SI metric unit. Equal to 1000 gigameter or 1ᴇ12 meter.
+  desc: SI metric unit. Equal to 1000 [gigameter] or 1ᴇ12 [meter]. Adopted 1960.
 gigameter:
   name: 
-  - Gigameter
+  - gigameter
   symbol: Gm
-  desc: SI metric unit. Equal to 1000 megameter or 1ᴇ9 meter.
+  desc: SI metric unit. Equal to 1000 [megameter] or 1ᴇ9 [meter]. Adopted 1960.
 megameter:
   name: 
-  - Megameter
+  - megameter
   symbol: Mm
-  desc: SI metric unit. Equal to 1000 kilometer or 1ᴇ6 meter.
+  desc: SI metric unit. Equal to 1000 [kilometer] or 1ᴇ6 [meter]. Adopted 1873.
 kilometer:
   name: 
-  - Kilometer
-  - Klick
+  - kilometer
+  - klick
   symbol: km
-  desc: SI metric unit. Equal to 10 hectometer or 1000 meter.
+  desc: SI metric unit. Equal to 10 [hectometer] or 1000 [meter]. Adopted 1795.
 hectometer:
   name: 
-  - Hectometer
+  - hectometer
   symbol: hm
-  desc: SI metric unit. Equal to 10 decameter or 100 meter.
+  desc: SI metric unit. Equal to 10 [decameter] or 100 [meter]. Adopted 1795.
 decameter:
   name: 
-  - Decameter
+  - decameter
   symbol: dam
-  desc: SI metric unit. Equal to 10 meter.
+  desc: SI metric unit. Equal to 10 [meter]. Adopted 1795.
 meter:
   name: 
-  - Meter
+  - meter
   symbol: m
   desc: Base SI metric unit.
 decimeter:
   name: 
-  - Decimeter
+  - decimeter
   symbol: dm
-  desc: SI metric unit. Equal to 10 centimeter or 0.1 meter.
+  desc: SI metric unit. Equal to 10 centimeter or 0.1 meter. Adopted 1795.
 centimeter:
   name: 
-  - Centimeter
+  - centimeter
   symbol: cm
-  desc: SI metric unit. Equal to 10 millimeter or 0.01 meter.
+  desc: SI metric unit. Equal to 10 [millimeter] or 0.01 [meter]. Adopted 1795.
 millimeter:
   name: 
-  - Millimeter
+  - millimeter
   symbol: mm
-  desc: SI metric unit. Equal to 1000 micrometer or 0.001 meter.
+  desc: SI metric unit. Equal to 1000 [micrometer] or 0.001 [meter]. Adopted 1795.
 micrometer:
   name: 
-  - Micrometer
-  - Micron
+  - micrometer
+  - micron
   symbol: μm
-  desc: SI metric unit. Equal to 1000 nanometer or 1ᴇ-6 meter.
+  desc: SI metric unit. Equal to 1000 [nanometer] or 1ᴇ-6 [meter]. Adopted 1873.
 nanometer:
   name: 
-  - Nanometer
+  - nanometer
   symbol: nm
-  desc: SI metric unit. Equal to 1000 picometer or 1ᴇ-9 meter.
+  desc: SI metric unit. Equal to 1000 [picometer] or 1ᴇ-9 [meter]. Adopted 1960.
 picometer:
   name: 
-  - Picometer
+  - picometer
   symbol: pm
-  desc: SI metric unit. Equal to 1000 femtometer or 1ᴇ-12 meter.
+  desc: SI metric unit. Equal to 1000 [femtometer] or 1ᴇ-12 [meter]. Adopted 1960.
 femtometer:
   name: 
-  - Femtometer
-  - Fermi
+  - femtometer
+  - fermi
   symbol: fm
-  desc: SI metric unit. Equal to 1000 attometer or 1ᴇ-15 meter.
+  desc: SI metric unit. Equal to 1000 [attometer] or 1ᴇ-15 [meter]. Adopted 1964.
 attometer:
   name: 
-  - Attometer
+  - attometer
   symbol: am
-  desc: SI metric unit. Equal to 1000 zeptometer or 1ᴇ-18 meter.
+  desc: SI metric unit. Equal to 1000 [zeptometer] or 1ᴇ-18 [meter]. Adopted 1964.
 zeptometer:
   name: 
-  - Zeptometer
+  - zeptometer
   symbol: zm
-  desc: SI metric unit. Equal to 1000 yoctometer or 1ᴇ-21 meter.
+  desc: SI metric unit. Equal to 1000 [yoctometer] or 1ᴇ-21 [meter]. Adopted 1991.
 yoctometer:
   name: 
-  - Yoctometer
+  - yoctometer
   symbol: ym
-  desc: SI metric unit. Equal to 1ᴇ-24 meter.
-mileScandinavian:
+  desc: SI metric unit. Equal to 1000 [rontometer] or 1ᴇ-24 [meter]. Adopted 1991.
+rontometer:
   name: 
-  - Scandinavian mile
-  symbol: mil
-  desc: Non-SI metric unit. Equal to 10 kilometer.
+  - rontometer
+  symbol: rm
+  desc: SI metric unit. Equal to 1000 [quectometer] or 1ᴇ-27 [meter]. Adopted 2022.
+quectometer:
+  name: 
+  - quectometer
+  symbol: qm
+  desc: SI metric unit. Equal to 1ᴇ-30 [meter]. Adopted 2022.
+
+# --------------------------------------------
+# Metric - Non-SI
+# --------------------------------------------
+
 myriameter:
   name: 
-  - Myriameter
+  - myriameter
   symbol: my
-  desc: Non-SI deprecated metric unit. Equal to 10 kilometer.
+  desc: Non-SI deprecated metric unit. Equal to 10 [kilometer].
 angstrom:
   name: 
-  - Ångström
+  - ångström
   symbol: Å
-  desc: Non-SI metric unit. Equal to 0.1 nanometer.
+  desc: Non-SI metric unit. Equal to 0.1 [nanometer].
 
 # --------------------------------------------
 # Imperial
@@ -132,181 +152,183 @@ angstrom:
 
 leagueImperial:
   name: 
-  - Imperial league
-  symbol: lg
-  desc: Imperial unit. Equal to 3 Imperial mile or 4.828032 kilometer.
+  - UK league
+  - UK statute league
+  symbol: st. lg
+  desc: Imperial linear unit. Equal to 3 [mileImperial] or 4.828032 [kilometer].
 mileImperial:
   name: 
-  - Imperial mile
-  - Land
-  symbol: mi
-  desc: Imperial unit. Equal to 320 rod or 1.609344 kilometer.
+  - UK mile
+  - UK statute mile
+  - land
+  symbol: st. mi
+  desc: Imperial linear unit. Equal to 1760 [yardImperial], 320 [rod], or 1.609344 [kilometer].
 rod:
   name: 
-  - Rod
-  - Pole
-  - Perch
+  - rod
+  - pole
+  - perch
   symbol: rd
-  desc: Imperial unit. Equal to 11⁄2 yard or 5.0292 meter.
+  desc: Imperial unit. Equal to 16.5 [footImperial],11⁄2 [yardImperial], or 5.0292 [meter].
 yardImperial:
   name: 
-  - Yard
+  - yard
   symbol: yd
-  desc: Imperial unit. Equal to 6⁄5 pace or 0.9144 meter.
+  desc: Imperial unit. Equal to 3 [footImperial], 6⁄5 [pace], or 0.9144 [meter].
 pace:
   name: 
-  - Pace
+  - pace
   symbol: pc
-  desc: Imperial unit. Equal to 5⁄3 cubit or 0.762 meter.
-cubit:
+  desc: Imperial linear unit. Equal to 30 [inchImperial], 5⁄3 [cubitImperial], or 0.762 [meter].
+cubitImperial:
   name: 
-  - Cubit
+  - cubit
   symbol: cu
-  desc: Imperial unit. Equal to 3⁄2 Imperial foot or 0.4572 meter.
+  desc: Imperial linear unit. Equal to 18 [inchImperial], 3⁄2 [footImperial], or 0.4572 [meter].
 footImperial:
   name: 
-  - Imperial foot
+  - foot
   symbol: ft
-  desc: Imperial unit. Equal to 4⁄3 Imperial span or 0.3048 meter.
+  desc: Imperial unit. Equal to 12 [inchImperial], 4⁄3 [spanImperial], or 30.48 [centimeter].
 spanImperial:
   name: 
-  - Imperial span
+  - span
   symbol: sp
-  desc: Imperial unit. Equal to 9⁄4 Imperial hand or 0.228 meter.
+  desc: Imperial linear unit. Equal to 9 [inchImperial], 9⁄4 [hand], or 22.86 [centimeter].
 hand:
   name: 
-  - Hand
+  - hand
   symbol: hd
-  desc: Imperial unit. Equal to 4⁄3 Imperial palm or 0.1016 meter.
+  desc: Imperial linear unit. Equal to 4 [inchImperial], 4⁄3 [palmImperial], or 10.16 [centimeter].
 palmImperial:
   name: 
-  - Imperial palm
+  - palm
   symbol: plm
-  desc: Imperial unit. Equal to 3 Imperial inch or 7.62 centimeter.
+  desc: Imperial linear unit. Equal to 3 [inchImperial] or 7.62 [centimeter].
 inchImperial:
   name: 
-  - Imperial inch
+  - inch
   symbol: in
-  desc: Imperial unit. Equal to 12 Imperial line or 2.54 centimeter.
-lineImperial:
+  desc: Imperial linear unit. Equal to 12 [lineImperialUK], 40 [lineImperialUS], or 2.54 [centimeter].
+lineImperialUK:
   name: 
-  - Imperial line
+  - UK line
   symbol: line
-  desc: Imperial unit. Equal to 12 point or 2.116̅ millimeter.
+  desc: Imperial linear unit. Equal to 12 [point] or 2.116̅ [millimeter].
 point:
   name: 
-  - Point
+  - point
   symbol: pt
-  desc: Imperial unit. Equal to 0.27638̅ millimeter.
+  desc: Smallest UK imperial linear unit. Equal to 0.17638̅ [millimeter].
 furlong:
   name: 
-  - Furlong
-  - Furrow long
+  - furlong
+  - furrow long
   symbol: fur
-  desc: Imperial unit. Equal to 10 Gunter's chain or 201.168 meter.
+  desc: Imperial surveyor unit. Equal to 220 [yardImperial], 10 [chainGunter], or 201.168 [meter].
 chainGunter:
   name: 
   - Gunter's chain
   symbol: ch
-  desc: Imperial unit. Equal to 4 rod or 20.1168 meter.
+  desc: Imperial surveyor unit. Equal to 4 [rod] or 20.1168 [meter].
 linkGunter:
   name: 
   - Gunter's link
   symbol: lk
-  desc: Imperial unit. Equal to 4 rod or 0.461̅8̅ meter.
+  desc: Smallest imperial surveyor unit. Equal to 20.1168 [centimeter].
 lea:
   name: 
-  - Lea
-  - Skein
+  - lea
+  - skein
   symbol: lea
-  desc: Imperial unit. Equal to 360 Imperial foot or 109.728 meter.
+  desc: Imperial (UK) linear unit. Equal to 360 [footImperial] or 109.728 [meter].
 wrap:
   name: 
-  - Wrap
+  - wrap
   symbol: wrap
-  desc: Imperial unit. Equal to 240 Imperial foot or 73.152 meter.
+  desc: Imperial (UK) unit. Equal to 240 [footImperial] or 73.152 [meter].
 bolt:
   name: 
-  - Bolt
+  - bolt
   symbol: bolt
-  desc: Imperial unit. Equal to 120 Imperial foot or 36.576 meter.
+  desc: Imperial (UK) unit. Equal to 120 [footImperial] or 36.576 [meter].
 shackle:
   name: 
-  - Shackle
+  - shackle
   symbol: shackle
-  desc: Imperial unit. Equal to 90 Imperial foot or 27.432 meter.
+  desc: Imperial (UK) unit. Equal to 90 [footImperial] or 27.432 [meter].
 rope:
   name: 
-  - Rope
+  - rope
   symbol: rope
-  desc: Imperial unit. Equal to 20 Imperial foot or 6.096 meter.
+  desc: Imperial (UK) unit. Equal to 20 [footImperial] or 6.096 [meter].
 ellImperial:
   name: 
-  - Ell
+  - ell
   symbol: ell
-  desc: Imperial unit. Equal to 45 Imperial inch or 1.143 meter.
+  desc: Imperial (UK) unit. Equal to 45 [inchImperial] or 1.143 [meter].
 nail:
   name: 
-  - Nail
+  - nail
   symbol: nail
-  desc: Imperial unit. Equal to 9⁄4 Imperial inch or 5.715 centimeter.
+  desc: Imperial (UK) unit. Equal to 9⁄4 [inchImperial] or 5.715 [centimeter].
 fingerImperial:
   name: 
-  - Imperial finger
+  - finger
   symbol: finger
-  desc: Imperial unit. Equal to 7⁄8 Imperial inch or 2.2225 centimeter.
+  desc: Imperial (UK) unit. Equal to 7⁄8 [inchImperial] or 2.2225 [centimeter].
 barleycorn:
   name: 
-  - Barleycorn
+  - barleycorn
   symbol: Bc
-  desc: Imperial unit. Equal to ⅓ Imperial inch or 8.46̅ millimeter.
+  desc: Imperial (UK) unit. Equal to ⅓ [inchImperial] or 8.46̅ [millimeter].
 button:
   name: 
   - Button
   symbol: button
-  desc: Imperial unit. Equal to 1⁄12 Imperial inch or 2.116̅ millimeter.
+  desc: Imperial (UK) unit. Equal to 1⁄12 [inchImperial] or 2.116̅ [millimeter].
 iron:
   name: 
-  - Iron
+  - iron
   symbol: iron
-  desc: Imperial unit. Equal to 1⁄48 Imperial inch or 0.52916̅ millimeter.
+  desc: Imperial (UK) unit. Equal to 1⁄48 [inchImperial] or 0.52916̅ [millimeter].
 calibre:
   name: 
   - calibre
   symbol: calibre
-  desc: Imperial unit. Equal to 1⁄100 Imperial inch or 0.254 millimeter.
+  desc: Imperial (UK) unit. Equal to 1⁄100 [inchImperial] or 0.254 [millimeter].
 thouImperial:
   name: 
-  - Thou
-  - Imperial mil
+  - thou
+  - mil
   symbol: th
-  desc: Imperial unit. Equal to 1⁄1000 Imperial inch or 25.4 micrometer.
-leagueNautical:
+  desc: Imperial (UK) unit. Equal to 1⁄1000 [inchImperial] or 25.4 [micrometer].
+leagueNauticalUK:
   name: 
-  - Nautical league
+  - UK nautical league
   symbol: nlg
-  desc: Imperial unit. Equal to 3 nautical mile or 5.559552 kilometer.
-mileNautical:
+  desc: Imperial unit. Equal to 3 [mileNauticalUK] or 5.559552 [kilometer].
+mileNauticalUK:
   name: 
-  - Nautical mile
+  - UK nautical mile
   symbol: nmi
-  desc: Imperial unit. Equal to 10 nautical cable or 1.853184 kilometer.
-cableNautical:
+  desc: Imperial nautical unit. Equal to 10 [cableNauticalUK] or 1.853184 [kilometer].
+cableNauticalUK:
   name: 
-  - Nautical cable
-  - Cable length
+  - UK nautical cable
+  - cable length
   symbol: ncbl
-  desc: Imperial unit. Equal to 608⁄15 nautical chain or 185.3184 meter.
-chainNautical:
+  desc: Imperial nautical unit. Equal to 608 [footImperial], 608⁄15 [chainNauticalUK], or 185.3184 meter.
+chainNauticalUK:
   name: 
-  - Nautical chain
+  - nautical chain
   symbol: nch
-  desc: Imperial unit. Equal to 5⁄2 Imperial fathom or 4.572 meter.
+  desc: Imperial nautical unit. Equal to 5 [yardImperial], 5⁄2 [fathomImperial]:, or 4.572 [meter].
 fathomImperial:
   name: 
-  - Imperial fathom
+  - fathom
   symbol: fath
-  desc: Imperial unit. Equal to 2 yard or 1.8288 meter.
+  desc: Imperial nautical unit. Equal to 2 [yardImperial] or 1.8288 [meter].
 
 # --------------------------------------------
 # Constants
@@ -314,324 +336,335 @@ fathomImperial:
 
 xunitCopper: 
   name: 
-  - Copper x unit
+  - copper X unit
   symbol: xu(CuKα₁)
-  desc: Copper X-ray wavelength unit. Equal to 1.00207697(28)ᴇ-13 meter. {2018 CODATA}
+  desc: Copper X-ray wavelength unit. Equal to 1.00207697(28)ᴇ-13 [meter]. {2018 CODATA}
 xunitMolybdenum:
   name: 
-  - Molybdenum x unit
+  - molybdenum X unit
   symbol: xu(MoKα₁)
-  desc: Molybdenum X-ray wavelength unit. Equal to 1.00209952(53)ᴇ-13 meter. {2018 CODATA}
+  desc: Molybdenum X-ray wavelength unit. Equal to 1.00209952(53)ᴇ-13 [meter]. {2018 CODATA}
+plank:
+  name: 
+  - Plank length
+  symbol: Lₚ
+  desc: Equal to 1.6160(12)ᴇ-35 [meter]
 
 
 # --------------------------------------------
 # Byzantine
 # --------------------------------------------
 
-digit:
+digitByzantine:
   name: 
-  - Digit
+  - Byzantine digit
   - Byzantine finger
-  - Monas
+  - monas
   symbol: δάκτυλος
-  desc: Ancient Byzantine unit. Equal to 1⁄16 Byzantine pous or 1.951875 centimeter.
+  desc: Ancient Byzantine unit. Equal to 1⁄16 [pousByzantine] or 1.951875 [centimeter].
 palmByzantine:
   name: 
   - Byzantine palm
   symbol: παλαιστή
-  desc: Ancient Byzantine unit. Equal to ¼ Byzantine pous or 7.8075 centimeter.
+  desc: Ancient Byzantine unit. Equal to ¼ [pousByzantine] or 7.8075 [centimeter].
 halfpous:
   name: 
   - Byzantine half-pous
   - Byzantine half-foot
   symbol: ἡμιπόδιον
-  desc: Ancient Byzantine unit. Equal to ½ Byzantine pous or 15.615 centimeter.
+  desc: Ancient Byzantine unit. Equal to ½ [pousByzantine] or 15.615 [centimeter].
 spanByzantine:
   name: 
   - Byzantine span
   symbol: σπιθαμή
-  desc: Ancient Byzantine unit. Equal to ¾ Byzantine pous or 23.4225 centimeter.
+  desc: Ancient Byzantine unit. Equal to ¾ [pousByzantine] or 23.4225 [centimeter].
 pousByzantine:
   name: 
   - Byzantine pous
   - Byzantine foot
   symbol: ποῦς
-  desc: Ancient Byzantine unit. Equal to 31.23 centimeter.
+  desc: Ancient Byzantine unit. Equal to 31.23 [centimeter].
 cubitPublic:
   name: 
-  - Public cubit
+  - public cubit
   symbol: δημόσιος πῆχυς
-  desc: Ancient Byzantine unit. Equal to 1.5 Byzantine pous or 46.845 centimeter.
+  desc: Ancient Byzantine unit. Equal to 1.5 [pousByzantine] or 46.845 [centimeter].
 cubitGeometric:
   name: 
-  - Geometric cubit
+  - geometric cubit
   symbol: γεωμετρικός πῆχυς
-  desc: Ancient Byzantine unit. Equal to 2 Byzantine pous or 62.46 centimeter.
+  desc: Ancient Byzantine unit. Equal to 2 [pousByzantine] or 62.46 [centimeter].
 paceSingle:
   name: 
-  - Single pace
+  - single pace
   symbol: βῆμα ἁπλοῦν
-  desc: Ancient Byzantine unit. Equal to 2.5 Byzantine pous or 78.075 centimeter.
+  desc: Ancient Byzantine unit. Equal to 2.5 [pousByzantine] or 78.075 [centimeter].
 paceDouble:
   name: 
-  - Double pace
+  - double pace
   symbol: βῆμα διπλοῦν
-  desc: Ancient Byzantine unit. Equal to 5 Byzantine pous or 1.5615 meter.
+  desc: Ancient Byzantine unit. Equal to 5 [pousByzantine] or 1.5615 [meter].
 orguiaSimple:
   name: 
-  - Simple orguia
-  - Simple fathom
+  - simple orguia
+  - simple fathom
   symbol: ἁπλὴ ὀργυιά
-  desc: Ancient Byzantine unit. Equal to 6 Byzantine pous or 1.8738 meter.
+  desc: Ancient Byzantine unit. Equal to 6 [pousByzantine] or 1.8738 [meter].
 orguiaGeometric:
   name: 
   - Geometric orguia
   - Geometric fathom
   symbol: geômetrikê orguiá
-  desc: Ancient Byzantine unit. Equal to 6¾ Byzantine pous or 2.108025 meter.
+  desc: Ancient Byzantine unit. Equal to 6¾ [pousByzantine] or 2.108025 [meter].
 perch:
   name: 
   - Perch
   symbol: δεκάποδον
-  desc: Ancient Byzantine unit. Equal to 10 Byzantine pous or 3.123 meter.
+  desc: Ancient Byzantine unit. Equal to 10 [pousByzantine] or 3.123 [meter].
 schoinionBalkan:
   name: 
   - Schoinion
   symbol: σχοινιον
-  desc: Ancient Byzantine unit in Balkan and west Anatolian. Equal to 60 Byzantine pous or 18.738 meter.
+  desc: Ancient Byzantine unit in Balkan and west Anatolian. Equal to 60 [pousByzantine] or 18.738 [meter].
 schoinionAsia:
   name: 
   - Schoinion
   symbol: σχοινιον
-  desc: Ancient Byzantine unit in the rest of Asia Minor. Equal to 72 Byzantine pous or 22.4856 meter.
+  desc: Ancient Byzantine unit in the rest of Asia Minor. Equal to 72 [pousByzantine] or 22.4856 [meter].
 plethron:
   name: 
   - Plethron
   symbol: πλέθρον
-  desc: Ancient Byzantine unit. Equal to 100 Byzantine pous or 31.23 meter.
+  desc: Ancient Byzantine unit. Equal to 100 [pousByzantine] or 31.23 [meter].
 stade:
   name: 
   - Stade
   symbol: στάδιον
-  desc: Ancient Byzantine unit. Equal to 600 Byzantine pous or 187.38 meter.
+  desc: Ancient Byzantine unit. Equal to 600 [pousByzantine] or 187.38 [meter].
 bowshot:
   name: 
   - Bowshot
   symbol: δοξαριού βολή
-  desc: Ancient Byzantine unit. Equal to 1000 Byzantine pous or 312.3 meter.
+  desc: Ancient Byzantine unit. Equal to 1000 [pousByzantine] or 312.3 [meter].
 mileByzantine:
   name: 
   - Byzantine mile
   symbol: μίλιον
-  desc: Ancient Byzantine unit. Equal to 5000 Byzantine pous or 1.5615 kilometer.
+  desc: Ancient Byzantine unit. Equal to 5000 [pousByzantine] or 1.5615 [kilometer].
 schoenus:
   name: 
   - Schoenus
   symbol: σχοινος
-  desc: Ancient Byzantine unit. Equal to 20000 Byzantine pous or 6.246 kilometer.
+  desc: Ancient Byzantine unit. Equal to 20000 [pousByzantine] or 6.246 [kilometer].
 journeyDay:
   name: 
   - Day's Journey
   symbol: ὁδός ἡμέρας
-  desc: Ancient Byzantine unit. Equal to 150000 Byzantine pous or 46.845 kilometer.
+  desc: Ancient Byzantine unit. Equal to 150000 [pousByzantine] or 46.845 [kilometer].
 journeyWeek:
   name: 
   - Week's Journey
   symbol: ὁδός σαββάτου
-  desc: Ancient Byzantine unit. Equal to 1050000 Byzantine pous or 327.915 kilometer.
+  desc: Ancient Byzantine unit. Equal to 1050000 [pousByzantine] or 327.915 [kilometer].
 
 # Cornish
 fathomCornish:
   name: 
   - Cornish fathom
   symbol: ftm
-  desc: Old Cornish unit. Equal to 5 Imperial foot or 1.524 meter.
+  desc: Old Cornish unit. Equal to 5 [footImperial] or 1.524 [meter].
 mileCornish:
   name: 
   - Cornish mile
   symbol: mi
-  desc: Old Cornish unit. Equal to 1.5 Imperial mile or 2.414016 kilometer.
+  desc: Old Cornish unit. Equal to 1.5 [mileImperial] or 2.414016 [kilometer].
 
 # Cypriot
 pic:
   name: 
-  - Pic
+  - pic
   symbol: pic
-  desc: Old Cypriot unit. Equal to 2 Cypriot foot or 60.96 centimeter.
+  desc: Old Cypriot unit. Equal to 2 [footCypriot] or 60.96 [centimeter].
 footCypriot:
   name: 
   - Cypriot foot
   symbol: ft
-  desc: Old Cypriot unit. Equal to 30.48 centimeter.
+  desc: Old Cypriot unit. Equal to 30.48 [centimeter].
 
 # Czech
 stopaBohemian:
   name: 
   - Bohemian stopa
   symbol: stopa
-  desc: Old Czech unit in Bohemia. Equal to 0.296 meter.
+  desc: Old Czech unit in Bohemia. Equal to 0.296 [meter].
 loketBohemian:
   name: 
   - Bohemian loket
   symbol: loket
-  desc: Old Czech unit in Bohemia. Equal to 2 Bohemian stopa or 0.592 meter.
+  desc: Old Czech unit in Bohemia. Equal to 2 [stopaBohemian] or 0.592 [meter].
 sahBohemian:
   name: 
   - Bohemian sah
   symbol: sah
-  desc: Old Czech unit in Bohemia. Equal to 3 Bohemian loket or 1.776 meter.
+  desc: Old Czech unit in Bohemia. Equal to 3 [stopaBohemian] or 1.776 [meter].
 latroBohemian:
   name: 
   - Bohemian latro
   symbol: latro
-  desc: Old Czech unit in Bohemia. Equal to 129⁄120 Bohemian sah or 1.9092 meter.
+  desc: Old Czech unit in Bohemia. Equal to 129⁄120 [sahBohemian] or 1.9092 [meter].
 mileBohemian:
   name: 
   - Bohemian mile
   symbol: mi
-  desc: Old Czech unit in Bohemia. Equal to 3660 Bohemian latro or 6.987672 kilometer.
+  desc: Old Czech unit in Bohemia. Equal to 3660 [latroBohemian] or 6.987672 [kilometer].
 stopaPraha:
   name: 
   - Praha stopa
   symbol: stopa
-  desc: Old Czech unit in Prague. Equal to 0.2965 meter.
+  desc: Old Czech unit in Prague. Equal to 0.2965 [meter].
 loketPraha:
   name: 
   - Praha loket
   symbol: loket
-  desc: Old Czech unit in Prague. Equal to 2 Praha stopa or 0.593 meter.
+  desc: Old Czech unit in Prague. Equal to 2 [stopaPraha] or 0.593 [meter].
 sahPraha:
   name: 
   - Praha sah
   symbol: sah
-  desc: Old Czech unit in Prague. Equal to 3 Praha loket or 1.779 meter.
+  desc: Old Czech unit in Prague. Equal to 3 [loketPraha] or 1.779 [meter].
 latroPraha:
   name: 
   - Praha latro
   symbol: latro
-  desc: Old Czech unit in Prague. Equal to 129⁄120 Praha sah or 1.912425 meter.
+  desc: Old Czech unit in Prague. Equal to 129⁄120 Praha sah or 1.912425 [meter].
 milePraha:
   name: 
   - Praha mile
   symbol: mi
-  desc: Old Czech unit in Prague. Equal to 3660 Praha latro or 6.9994755 kilometer.
+  desc: Old Czech unit in Prague. Equal to 3660 [latroPraha] or 6.9994755 [kilometer].
 stopaMoravian:
   name: 
   - Praha stopa
   symbol: stopa
-  desc: Old Czech unit in Moravia. Equal to 0.284 meter.
+  desc: Old Czech unit in Moravia. Equal to 0.284 [meter].
 loketMoravian:
   name: 
   - Moravian loket
   symbol: loket
-  desc: Old Czech unit in Moravia. Equal to 2 Moravian stopa or 0.568 meter.
+  desc: Old Czech unit in Moravia. Equal to 2 [stopaMoravian] or 0.568 [meter].
 sahMoravian:
   name: 
   - Moravian sah
   symbol: sah
-  desc: Old Czech unit in Moravia. Equal to 3 Moravian loket or 1.704 meter.
+  desc: Old Czech unit in Moravia. Equal to 3 [loketMoravian] or 1.704 [meter].
 latroMoravian:
   name: 
   - Moravian latro
   symbol: latro
-  desc: Old Czech unit in Moravia. Equal to 129⁄120 Moravian sah or 1.8318 meter.
+  desc: Old Czech unit in Moravia. Equal to 129⁄120 [sahMoravian] or 1.8318 [meter].
 mileMoravian:
   name: 
   - Morovian mile
   symbol: mi
-  desc: Old Czech unit in Moravia. Equal to 3660 Moravian latro or 6.704388 kilometer.
+  desc: Old Czech unit in Moravia. Equal to 3660 [latroMoravian] or 6.704388 [kilometer].
 stopaSilesian:
   name: 
-  - Stopa
+  - stopa
   symbol: stopa
-  desc: Old Czech unit in Silesia. Equal to 0.2895 meter.
+  desc: Old Czech unit in Silesia. Equal to 0.2895 [meter].
 loketSilesian:
   name: 
   - Silesian loket
   symbol: loket
-  desc: Old Czech unit in Silesia. Equal to 2 Silesian stopa or 0.579 meter.
+  desc: Old Czech unit in Silesia. Equal to 2 [stopaSilesian] or 0.579 [meter].
 sahSilesian:
   name: 
   - Silesian sah
   symbol: sah
-  desc: Old Czech unit in Silesia. Equal to 3 Silesian loket or 1.737 meter.
+  desc: Old Czech unit in Silesia. Equal to 3 [loketSilesian] or 1.737 [meter].
 latroSilesian:
   name: 
   - Silesian latro
   symbol: latro
-  desc: Old Czech unit in Silesia. Equal to 129⁄120 Silesian sah or 1.867275 meter.
+  desc: Old Czech unit in Silesia. Equal to 129⁄120 [sahSilesian] or 1.867275 [meter].
 mileSilesian:
   name: 
   - Silesian mile
   symbol: mi
-  desc: Old Czech unit in Silesia. Equal to 3660 Silesian latro or 6.8342265 kilometer.
+  desc: Old Czech unit in Silesia. Equal to 3660 [latroSilesian] or 6.8342265 [kilometer].
+
+
+
 miil:
   name: 
-  - Miil
+  - miil
   symbol: miil
-  desc: Old Danish unit. Equal to 2000 ruthe or 7.532568 kilometer.
+  desc: Old Danish unit. Equal to 2000 [ruthe] or 7.532568 [kilometer].
 ruthe:
   name: 
-  - Ruthe
+  - ruthe
   symbol: ruthe
-  desc: Old Danish unit. Equal to 2 favn or 3.766284 meter.
+  desc: Old Danish unit. Equal to 2 [favn] or 3.766284 [meter].
 favn:
   name: 
-  - Favn
+  - favn
   symbol: favn
-  desc: Old Danish unit. Equal to 3 aln or 1.883142 meter.
+  desc: Old Danish unit. Equal to 3 [aln] or 1.883142 [meter].
 aln:
   name: 
-  - Aln
+  - aln
   symbol: aln
-  desc: Old Danish unit. Equal to 2 fod or 0.627714 meter.
+  desc: Old Danish unit. Equal to 2 [fod] or 0.627714 [meter].
 fod:
   name: 
-  - Fod
+  - fod
   symbol: fod
-  desc: Old Danish unit. Equal to 12 tomme or 0.313857 meter.
+  desc: Old Danish unit. Equal to 12 [tomme] or 0.313857 [meter].
 tomme:
   name: 
-  - Tomme
+  - tomme
   symbol: tomme
-  desc: Old Danish unit. Equal to 12 linie or 2.615475 centimeter.
+  desc: Old Danish unit. Equal to 12 [linie] or 2.615475 [centimeter].
 linie:
   name: 
-  - Linie
+  - linie
   symbol: linie
-  desc: Old Danish unit. Equal to 2.1795625 millimeter.
+  desc: Old Danish unit. Equal to 2.1795625 [millimeter].
+
+
+
 uren:
   name: 
-  - Uren
+  - uren
   symbol: uren
-  desc: Old Dutch unit. Equal to 5 myl or 5.000244301 kilometer.
+  desc: Old Dutch unit. Equal to 5 [myl] or 5.000244301 [kilometer].
 myl:
   name: 
-  - Myl
+  - myl
   symbol: myl
-  desc: Old Dutch unit. Equal to 3533⁄13 roeden or 1.0000488602 kilometer.
+  desc: Old Dutch unit. Equal to 3533⁄13 [roeden] or 1.0000488602 [kilometer].
 roeden:
   name: 
-  - Roeden
+  - roeden
   symbol: roeden
-  desc: Old Dutch unit. Equal to 26⁄5 elle or 3.6797722 meter.
+  desc: Old Dutch unit. Equal to 26⁄5 elle or 3.6797722 [meter].
 elle:
   name: 
-  - Elle
+  - elle
   symbol: elle
-  desc: Old Dutch unit. Equal to 5⁄2 voeten or 0.7076485 meter.
+  desc: Old Dutch unit. Equal to 5⁄2 [voeten] or 0.7076485 [meter].
 voeten:
   name: 
-  - Voeten
+  - voeten
   symbol: voeten
-  desc: Old Dutch unit. Equal to 12 duime or 0.2830594 meter.
+  desc: Old Dutch unit. Equal to 12 [duime] or 0.2830594 [meter].
 duime:
   name: 
-  - Duime
+  - duime
   symbol: duime
-  desc: Old Dutch unit. Equal to 12 lyne or 2.3588283̅ centimeter.
+  desc: Old Dutch unit. Equal to 12 [lyne] or 2.3588283̅ [centimeter].
 lyne:
   name: 
-  - Lyne
+  - lyne
   symbol: lyne
-  desc: Old Dutch unit. Equal to 1.96569027̅ millimeter.
+  desc: Old Dutch unit. Equal to 1.96569027̅ [millimeter].
