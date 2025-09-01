@@ -169,7 +169,7 @@ rod:
   - pole
   - perch
   symbol: rd
-  desc: Imperial unit. Equal to 16.5 [footImperial],11⁄2 [yardImperial], or 5.0292 [meter].
+  desc: Imperial unit. Equal to 16.5 [footImperial], 11⁄2 [yardImperial], or 5.0292 [meter].
 yardImperial:
   name: 
   - yard
@@ -412,38 +412,38 @@ orguiaSimple:
   desc: Ancient Byzantine unit. Equal to 6 [pousByzantine] or 1.8738 [meter].
 orguiaGeometric:
   name: 
-  - Geometric orguia
-  - Geometric fathom
+  - geometric orguia
+  - geometric fathom
   symbol: geômetrikê orguiá
   desc: Ancient Byzantine unit. Equal to 6¾ [pousByzantine] or 2.108025 [meter].
 perch:
   name: 
-  - Perch
+  - perch
   symbol: δεκάποδον
   desc: Ancient Byzantine unit. Equal to 10 [pousByzantine] or 3.123 [meter].
 schoinionBalkan:
   name: 
-  - Schoinion
+  - schoinion (Balkan & West Anatolian)
   symbol: σχοινιον
   desc: Ancient Byzantine unit in Balkan and west Anatolian. Equal to 60 [pousByzantine] or 18.738 [meter].
 schoinionAsia:
   name: 
-  - Schoinion
+  - schoinion (Asia Minor)
   symbol: σχοινιον
   desc: Ancient Byzantine unit in the rest of Asia Minor. Equal to 72 [pousByzantine] or 22.4856 [meter].
 plethron:
   name: 
-  - Plethron
+  - plethron
   symbol: πλέθρον
   desc: Ancient Byzantine unit. Equal to 100 [pousByzantine] or 31.23 [meter].
 stade:
   name: 
-  - Stade
+  - stade
   symbol: στάδιον
   desc: Ancient Byzantine unit. Equal to 600 [pousByzantine] or 187.38 [meter].
 bowshot:
   name: 
-  - Bowshot
+  - bowshot
   symbol: δοξαριού βολή
   desc: Ancient Byzantine unit. Equal to 1000 [pousByzantine] or 312.3 [meter].
 mileByzantine:
@@ -453,17 +453,17 @@ mileByzantine:
   desc: Ancient Byzantine unit. Equal to 5000 [pousByzantine] or 1.5615 [kilometer].
 schoenus:
   name: 
-  - Schoenus
+  - schoenus
   symbol: σχοινος
   desc: Ancient Byzantine unit. Equal to 20000 [pousByzantine] or 6.246 [kilometer].
 journeyDay:
   name: 
-  - Day's Journey
+  - day's journey
   symbol: ὁδός ἡμέρας
   desc: Ancient Byzantine unit. Equal to 150000 [pousByzantine] or 46.845 [kilometer].
 journeyWeek:
   name: 
-  - Week's Journey
+  - week's journey
   symbol: ὁδός σαββάτου
   desc: Ancient Byzantine unit. Equal to 1050000 [pousByzantine] or 327.915 [kilometer].
 
