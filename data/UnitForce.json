@@ -1,0 +1,15 @@
+{
+    "id": "force",
+    "quantityId": [
+        {
+            "id": "acceleration",
+            "exponent": "1"
+        },
+        {
+            "id": "mass",
+            "exponent": "1"
+        }
+    ],
+    "baseUnit": "newton"
+
+}

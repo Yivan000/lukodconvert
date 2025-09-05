@@ -5,129 +5,154 @@
 quettameter:
   name: 
   - quettameter
+  - quettametre
   symbol: Qm
   desc: SI metric unit. Equal to 1000 [ronnameter] or 1ᴇ30 [meter]. Adopted 2022.
 ronnameter:
   name: 
   - ronnameter
+  - ronnametre
   symbol: Rm
   desc: SI metric unit. Equal to 1000 [yottameter] or 1ᴇ27 [meter]. Adopted 2022.
 yottameter:
   name: 
   - yottameter
+  - yottametre
   symbol: Ym
   desc: SI metric unit. Equal to 1000 [zettameter] or 1ᴇ24 meter. Adopted 1991.
 zettameter:
   name: 
   - zettameter
+  - zettametre
   symbol: Zm
   desc: SI metric unit. Equal to 1000 [exameter] or 1ᴇ21 [meter]. Adopted 1991.
 exameter:
   name: 
   - exameter
+  - exametre
   symbol: Em
   desc: SI metric unit. Equal to 1000 [petameter] or 1ᴇ18 [meter]. Adopted 1975.
 petameter:
   name: 
   - petameter
+  - petametre
   symbol: Pm
   desc: SI metric unit. Equal to 1000 [terameter] or 1ᴇ15 [meter]. Adopted 1975.
 terameter:
   name: 
   - terameter
+  - terametre
   symbol: Tm
   desc: SI metric unit. Equal to 1000 [gigameter] or 1ᴇ12 [meter]. Adopted 1960.
 gigameter:
   name: 
   - gigameter
+  - gigametre
   symbol: Gm
   desc: SI metric unit. Equal to 1000 [megameter] or 1ᴇ9 [meter]. Adopted 1960.
 megameter:
   name: 
   - megameter
+  - megametre
   symbol: Mm
   desc: SI metric unit. Equal to 1000 [kilometer] or 1ᴇ6 [meter]. Adopted 1873.
 kilometer:
   name: 
   - kilometer
+  - kilometre
   - klick
   symbol: km
   desc: SI metric unit. Equal to 10 [hectometer] or 1000 [meter]. Adopted 1795.
 hectometer:
   name: 
   - hectometer
+  - hectometre
   symbol: hm
   desc: SI metric unit. Equal to 10 [decameter] or 100 [meter]. Adopted 1795.
 decameter:
   name: 
   - decameter
+  - decametre
   symbol: dam
   desc: SI metric unit. Equal to 10 [meter]. Adopted 1795.
 meter:
   name: 
   - meter
+  - metre
   symbol: m
   desc: Base SI metric unit.
 decimeter:
   name: 
   - decimeter
+  - decimetre
   symbol: dm
-  desc: SI metric unit. Equal to 10 centimeter or 0.1 meter. Adopted 1795.
+  desc: SI metric unit. Equal to 10 [centimeter] or 0.1 [meter]. Adopted 1795.
 centimeter:
   name: 
   - centimeter
+  - centimetre
   symbol: cm
   desc: SI metric unit. Equal to 10 [millimeter] or 0.01 [meter]. Adopted 1795.
 millimeter:
   name: 
   - millimeter
+  - millimetre
   symbol: mm
   desc: SI metric unit. Equal to 1000 [micrometer] or 0.001 [meter]. Adopted 1795.
 micrometer:
   name: 
   - micrometer
+  - micrometre
   - micron
   symbol: μm
   desc: SI metric unit. Equal to 1000 [nanometer] or 1ᴇ-6 [meter]. Adopted 1873.
 nanometer:
   name: 
   - nanometer
+  - nanometre
   symbol: nm
   desc: SI metric unit. Equal to 1000 [picometer] or 1ᴇ-9 [meter]. Adopted 1960.
 picometer:
   name: 
   - picometer
+  - picometre
   symbol: pm
   desc: SI metric unit. Equal to 1000 [femtometer] or 1ᴇ-12 [meter]. Adopted 1960.
 femtometer:
   name: 
   - femtometer
+  - femtometre
   - fermi
   symbol: fm
   desc: SI metric unit. Equal to 1000 [attometer] or 1ᴇ-15 [meter]. Adopted 1964.
 attometer:
   name: 
   - attometer
+  - attometre
   symbol: am
   desc: SI metric unit. Equal to 1000 [zeptometer] or 1ᴇ-18 [meter]. Adopted 1964.
 zeptometer:
   name: 
   - zeptometer
+  - zeptometre
   symbol: zm
   desc: SI metric unit. Equal to 1000 [yoctometer] or 1ᴇ-21 [meter]. Adopted 1991.
 yoctometer:
   name: 
   - yoctometer
+  - yoctometre
   symbol: ym
   desc: SI metric unit. Equal to 1000 [rontometer] or 1ᴇ-24 [meter]. Adopted 1991.
 rontometer:
   name: 
   - rontometer
+  - rontometre
   symbol: rm
   desc: SI metric unit. Equal to 1000 [quectometer] or 1ᴇ-27 [meter]. Adopted 2022.
 quectometer:
   name: 
   - quectometer
+  - quectometre
   symbol: qm
   desc: SI metric unit. Equal to 1ᴇ-30 [meter]. Adopted 2022.
 

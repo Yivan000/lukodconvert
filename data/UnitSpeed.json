@@ -1,0 +1,15 @@
+{
+    "id": "speed",
+    "quantityId": [
+        {
+            "id": "length",
+            "exponent": "1"
+        },
+        {
+            "id": "time",
+            "exponent": "-1"
+        }
+    ],
+    "baseUnit": "meterPerSecond"
+
+}

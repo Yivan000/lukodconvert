@@ -1,0 +1,15 @@
+{
+    "id": "acceleration",
+    "quantityId": [
+        {
+            "id": "speed",
+            "exponent": "1"
+        },
+        {
+            "id": "time",
+            "exponent": "-1"
+        }
+    ],
+    "baseUnit": "meterPerSecondSquared"
+
+}
