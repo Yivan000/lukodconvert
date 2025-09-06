@@ -1,4 +1,4 @@
-id,m1,m2,b1,b2,category,reference,page
+id,slopeNumerator,slopeDenominator,yinterceptNumerator,yinterceptDenominator,category,reference,page
 kelvin,1,1,0,1,metricSi,,
 quettakelvin,1000000000000000000000000000000,1,0,1,metricSi,doi:10.59161/10.59161/CGPM2022RES3E,
 ronnakelvin,1000000000000000000000000000,1,0,1,metricSi,doi:10.59161/10.59161/CGPM2022RES3E,

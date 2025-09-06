@@ -1,4 +1,4 @@
-id,m1,m2,b1,b2,category,reference,page
+id,slopeNumerator,slopeDenominator,yinterceptNumerator,yinterceptDenominator,category,reference,page
 kilogram,1,1,0,1,metricSi,,
 quettagram,1000000000000000000000000000,1,0,1,metricSi,doi:10.59161/10.59161/CGPM2022RES3E,
 ronnagram,1000000000000000000000000,1,0,1,metricSi,doi:10.59161/10.59161/CGPM2022RES3E,
@@ -11,7 +11,7 @@ gigagram,1000000,1,0,1,metricSi,https://www.nist.gov/pml/owm/metric-si-prefixes,
 megagram,1000,1,0,1,metricSi,https://www.nist.gov/pml/owm/metric-si-prefixes,
 hectogram,1,10,0,1,metricSi,https://www.nist.gov/pml/owm/metric-si-prefixes,
 decagram,1,100,0,1,metricSi,https://www.nist.gov/pml/owm/metric-si-prefixes,
-gram,1,1000,0,1,metricSi,
+gram,1,1000,0,1,metricSi,,
 decigram,1,10000,0,1,metricSi,https://www.nist.gov/pml/owm/metric-si-prefixes,
 centigram,1,100000,0,1,metricSi,https://www.nist.gov/pml/owm/metric-si-prefixes,
 milligram,1,1000000,0,1,metricSi,https://www.nist.gov/pml/owm/metric-si-prefixes,
