@@ -1,6 +1,6 @@
 {
     "id": "force",
-    "quantityId": [
+    "derivedId": [
         {
             "id": "acceleration",
             "exponent": "1"

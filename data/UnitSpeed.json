@@ -1,6 +1,6 @@
 {
     "id": "speed",
-    "quantityId": [
+    "derivedId": [
         {
             "id": "length",
             "exponent": "1"

@@ -1,6 +1,6 @@
 {
     "id": "acceleration",
-    "quantityId": [
+    "derivedId": [
         {
             "id": "speed",
             "exponent": "1"

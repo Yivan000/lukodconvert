@@ -1,6 +1,6 @@
 {
     "id": "time",
-    "quantityId": null,
+    "derivedId": null,
     "baseUnit": "second"
 
 }

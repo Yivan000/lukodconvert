@@ -1,6 +1,6 @@
 {
     "id": "mass",
-    "quantityId": null,
+    "derivedId": null,
     "baseUnit": "kilogram"
 
 }
