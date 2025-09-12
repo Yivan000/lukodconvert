@@ -1,64 +1,86 @@
-
-
 bale:
   name: 
-  - bale
+  - 
+    one: bale
+    other: bales
   symbol: 
   - bale
   desc: Equal to 5 [bundle] or 5000 [sheet].
 bundle:
   name: 
-  - bundle
+  - 
+    one: bundle
+    other: bundles
   symbol: 
   - bundle
   desc: Equal to 10 [ream] or 1000 [sheet].
 ream:
   name: 
-  - ream
-  - long ream
+  - 
+    one: ream
+    other: reams
+  - 
+    one: long ream
+    other: long reams
   symbol: 
   - ream
   desc: Equal to 20 [quires] or 500 [sheet].
 quire:
   name: 
-  - quire
+  - 
+    one: quire
+    other: quires
   symbol: 
   - quire
   desc: Equal to 25 [sheet].
 sheet:
   name: 
-  - sheet
+  - 
+    one: sheet
+    other: sheets
   symbol: 
   - sheet
   desc: A single sheet of paper.
 baleOld:
   name: 
-  - bale (old)
+  - 
+    one: bale (old)
+    other: bales (old)
   symbol: 
   - bale
   desc: Equal to 5 [bundleOld] or 4800 [sheet].
 bundleOld:
   name: 
-  - bundle (old)
+  - 
+    one: bundle (old)
+    other: bundles (old)
   symbol: 
   - bundle
   desc: Equal to 10 [reamOld] or 960 [sheet].
 reamOld:
   name: 
-  - ream (old)
-  - short ream
+  - 
+    one: ream (old)
+    other: reams (old)
+  - 
+    one: short ream
+    other: short reams
   symbol: 
   - ream
   desc: Equal to 20 [quiresOld] or 480 [sheet].
 quireOld:
   name: 
-  - quire (old)
+  - 
+    one: quire (old)
+    other: quires (old)
   symbol: 
   - quire
   desc: Equal to 24 [sheet].
 reamPerfect:
   name: 
-  - perfect ream
+  - 
+    one: perfect ream
+    other: perfect reams
   symbol: 
   - perfect ream
   desc: Equal to 516 [sheet].

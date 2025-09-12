@@ -4,165 +4,222 @@
 
 quettakelvin:
   name: 
-  - quettakelvin
+  - 
+    one: quettakelvin
+    other: quettakelvins
   symbol: 
   - QK
   desc: SI metric unit. Equal to 1000 [ronnakelvin] or 1ᴇ30 [kelvin]. Adopted 2022.
 ronnakelvin:
   name: 
-  - ronnakelvin
+  - 
+    one: ronnakelvin
+    other: ronnakelvins
   symbol: 
   - RK
   desc: SI metric unit. Equal to 1000 [yottakelvin] or 1ᴇ27 [kelvin]. Adopted 2022.
 yottakelvin:
   name: 
-  - yottakelvin
+  - 
+    one: yottakelvin
+    other: yottakelvins
   symbol: 
   - YK
   desc: SI metric unit. Equal to 1000 [zettakelvin] or 1ᴇ24 kelvin. Adopted 1991.
 zettakelvin:
   name: 
-  - zettakelvin
+  - 
+    one: zettakelvin
+    other: zettakelvins
   symbol: 
   - ZK
   desc: SI metric unit. Equal to 1000 [exakelvin] or 1ᴇ21 [kelvin]. Adopted 1991.
 exakelvin:
   name: 
-  - exakelvin
+  - 
+    one: exakelvin
+    other: exakelvins
   symbol: 
   - EK
   desc: SI metric unit. Equal to 1000 [petakelvin] or 1ᴇ18 [kelvin]. Adopted 1975.
 petakelvin:
   name: 
-  - petakelvin
+  - 
+    one: petakelvin
+    other: petakelvins
   symbol: 
   - PK
   desc: SI metric unit. Equal to 1000 [terakelvin] or 1ᴇ15 [kelvin]. Adopted 1975.
 terakelvin:
   name: 
-  - terakelvin
+  - 
+    one: terakelvin
+    other: terakelvins
   symbol: 
   - TK
   desc: SI metric unit. Equal to 1000 [gigakelvin] or 1ᴇ12 [kelvin]. Adopted 1960.
 gigakelvin:
   name: 
-  - gigakelvin
+  - 
+    one: gigakelvin
+    other: gigakelvins
   symbol: 
   - GK
   desc: SI metric unit. Equal to 1000 [megakelvin] or 1ᴇ9 [kelvin]. Adopted 1960.
 megakelvin:
   name: 
-  - megakelvin
+  - 
+    one: megakelvin
+    other: megakelvins
   symbol: 
   - MK
   desc: SI metric unit. Equal to 1000 [kilokelvin] or 1ᴇ6 [kelvin]. Adopted 1873.
 kilokelvin:
   name: 
-  - kilokelvin
+  - 
+    one: kilokelvin
+    other: kilokelvins
   symbol: 
   - kK
   desc: SI metric unit. Equal to 10 [hectokelvin] or 1000 [kelvin]. Adopted 1795.
 hectokelvin:
   name: 
-  - hectokelvin
+  - 
+    one: hectokelvin
+    other: hectokelvins
   symbol: 
   - hK
   desc: SI metric unit. Equal to 10 [decakelvin] or 100 [kelvin]. Adopted 1795.
 decakelvin:
   name: 
-  - decakelvin
+  - 
+    one: decakelvin
+    other: decakelvins
   symbol: 
   - daK
   desc: SI metric unit. Equal to 10 [kelvin]. Adopted 1795.
 kelvin:
   name: 
-  - kelvin
+  - 
+    one: kelvin
+    other: kelvins
   symbol: 
   - K
   desc: Base SI metric unit.
 decikelvin:
   name: 
-  - decikelvin
+  - 
+    one: decikelvin
+    other: decikelvins
   symbol: 
   - dK
   desc: SI metric unit. Equal to 10 [centikelvin] or 0.1 [kelvin]. Adopted 1795.
 centikelvin:
   name: 
-  - centikelvin
+  - 
+    one: centikelvin
+    other: centikelvins
   symbol: 
   - cK
   desc: SI metric unit. Equal to 10 [millikelvin] or 0.01 [kelvin]. Adopted 1795.
 millikelvin:
   name: 
-  - millikelvin
+  - 
+    one: millikelvin
+    other: millikelvins
   symbol: 
   - mK
   desc: SI metric unit. Equal to 1000 [microkelvin] or 0.001 [kelvin]. Adopted 1795.
 microkelvin:
   name: 
-  - microkelvin
+  - 
+    one: microkelvin
+    other: microkelvins
   symbol: 
   - μK
   desc: SI metric unit. Equal to 1000 [nanokelvin] or 1ᴇ-6 [kelvin]. Adopted 1873.
 nanokelvin:
   name: 
-  - nanokelvin
+  - 
+    one: nanokelvin
+    other: nanokelvins
   symbol: 
   - nK
   desc: SI metric unit. Equal to 1000 [picokelvin] or 1ᴇ-9 [kelvin]. Adopted 1960.
 picokelvin:
   name: 
-  - picokelvin
+  - 
+    one: picokelvin
+    other: picokelvins
   symbol: 
   - pK
   desc: SI metric unit. Equal to 1000 [femtokelvin] or 1ᴇ-12 [kelvin]. Adopted 1960.
 femtokelvin:
   name: 
-  - femtokelvin
+  - 
+    one: femtokelvin
+    other: femtokelvins
   symbol: 
   - fK
   desc: SI metric unit. Equal to 1000 [attokelvin] or 1ᴇ-15 [kelvin]. Adopted 1964.
 attokelvin:
   name: 
-  - attokelvin
+  - 
+    one: attokelvin
+    other: attokelvins
   symbol: 
   - aK
   desc: SI metric unit. Equal to 1000 [zeptokelvin] or 1ᴇ-18 [kelvin]. Adopted 1964.
 zeptokelvin:
   name: 
-  - zeptokelvin
+  - 
+    one: zeptokelvin
+    other: zeptokelvins
   symbol: 
   - zK
   desc: SI metric unit. Equal to 1000 [yoctokelvin] or 1ᴇ-21 [kelvin]. Adopted 1991.
 yoctokelvin:
   name: 
-  - yoctokelvin
+  - 
+    one: yoctokelvin
+    other: yoctokelvins
   symbol: 
   - yK
   desc: SI metric unit. Equal to 1000 [rontokelvin] or 1ᴇ-24 [kelvin]. Adopted 1991.
 rontokelvin:
   name: 
-  - rontokelvin
+  - 
+    one: rontokelvin
+    other: rontokelvins
   symbol: 
   - rK
   desc: SI metric unit. Equal to 1000 [quectokelvin] or 1ᴇ-27 [kelvin]. Adopted 2022.
 quectokelvin:
   name: 
-  - quectokelvin
+  - 
+    one: quectokelvin
+    other: quectokelvins
   symbol: 
   - qK
   desc: SI metric unit. Equal to 1ᴇ-30 [kelvin]. Adopted 2022.
 
 celsius:
   name: 
-  - Celsius
-  - centigrade
-  - degree Celsius
-  - degree centigrade
+  - 
+    one: Celsius
+    other: Celsius
+  - 
+    one: centigrade
+    other: centigrades
+  - 
+    one: degree Celsius
+    other: degrees Celsius
+  - 
+    one: degree centigrade
+    other: degrees centigrade
   symbol: 
   - ˚C
   desc: SI derived metric unit. 0˚C is equal to 273.15 [kelvin].
-
 
 # --------------------------------------------
 # ENGLISH
@@ -170,21 +227,27 @@ celsius:
 
 fahrenheit:
   name: 
-  - Fahrenheit
-  - degree Fahrenheit
+  - 
+    one: Fahrenheit
+    other: Fahrenheits
+  - 
+    one: degree Fahrenheit
+    other: degrees Fahrenheit
   symbol: 
   - ˚F
   desc: Imperial unit. 0 ˚F is equal to -17.7̅ [celsius] or 255.372̅ [kelvin].
 
-
 rankine:
   name: 
-  - Rankine
-  - degree Rankine
+  - 
+    one: Rankine
+    other: Rankines
+  - 
+    one: degree Rankine
+    other: degrees Rankine
   symbol: 
   - ˚R
   desc: Imperial derived unit. 0 ˚R is equal to -459.67 [fahrenheit], -275.15 [celsius], or 0 [kelvin].
-
 
 # --------------------------------------------
 # FRENCH
@@ -192,8 +255,12 @@ rankine:
 
 reaumur:
   name: 
-  - Réaumur
-  - degree Réaumur
+  - 
+    one: Réaumur
+    other: Réaumurs
+  - 
+    one: degree Réaumur
+    other: degrees Réaumur
   symbol: 
   - ˚Ré
   - ˚Re

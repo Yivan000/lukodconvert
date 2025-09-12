@@ -4,17 +4,27 @@
 
 meterPerSecond:
   name: 
-  - meter per second
-  - metre per second
+  - 
+    one: meter per second
+    other: meters per second
+  - 
+    one: metre per second
+    other: metres per second
   symbol: 
   - m/s
   - m·s⁻¹
   desc: SI base metric unit.
 kilometerPerHour:
   name: 
-  - kilometer per hour
-  - kilometre per hour
-  - klick
+  - 
+    one: kilometer per hour
+    other: kilometers per hour
+  - 
+    one: kilometre per hour
+    other: kilometres per hour
+  - 
+    one: klick
+    other: klicks
   symbol: 
   - km/h
   - kph
@@ -23,14 +33,15 @@ kilometerPerHour:
   - km·h⁻¹
   desc: SI metric unit.
 
-
 # --------------------------------------------
 # English
 # --------------------------------------------
 
 footPerSecond:
   name: 
-  - foot per second
+  - 
+    one: foot per second
+    other: feet per second
   symbol: 
   - fps
   desc: FPS unit. Equal to 0.3048 [meterPerSecond].

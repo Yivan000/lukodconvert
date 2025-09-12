@@ -4,10 +4,18 @@
 
 meterPerSecondSquared:
   name: 
-  - meter per second squared
-  - metre per second squared
-  - meter per square second
-  - metre per square second
+  - 
+    one: meter per second squared
+    other: meters per second squared
+  - 
+    one: metre per second squared
+    other: metres per second squared
+  - 
+    one: meter per square second
+    other: meters per square second
+  - 
+    one: metre per square second
+    other: metres per square second
   symbol: 
   - m/s²
   desc: SI base metric unit.
@@ -19,8 +27,12 @@ meterPerSecondSquared:
 
 footPerSecondSquared:
   name: 
-  - foot per second squared
-  - foot per square second
+  - 
+    one: foot per second squared
+    other: feet per second squared
+  - 
+    one: foot per square second
+    other: feet per square second
   symbol: 
   - ft/s²
   desc: FPS unit. Equal to 0.3048 [meterPerSecondSquared].
